@@ -18,8 +18,8 @@
     <PackageTags>mediator;cqrs;pipeline;request;handler;mediatr</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageProjectUrl>https://github.com/YOUR_GITHUB_USER/SlimMediator</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/YOUR_GITHUB_USER/SlimMediator</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/erangaapp/SlimMediator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/erangaapp/SlimMediator</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>

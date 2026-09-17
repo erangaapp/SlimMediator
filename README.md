@@ -1,5 +1,9 @@
 # SlimMediator
 
+[![NuGet](https://img.shields.io/nuget/v/SlimMediator.svg)](https://www.nuget.org/packages/SlimMediator)
+[![Downloads](https://img.shields.io/nuget/dt/SlimMediator.svg)](https://www.nuget.org/packages/SlimMediator)
+[![CI](https://github.com/erangaapp/SlimMediator/actions/workflows/ci.yml/badge.svg)](https://github.com/erangaapp/SlimMediator/actions/workflows/ci.yml)
+
 A minimal, dependency-free in-process mediator for .NET. It implements the three
 abstractions most services actually use from MediatR — `IRequest<T>`, `ISender`
 and `IPipelineBehavior<,>` — in about 200 lines of library code, with no reflection
